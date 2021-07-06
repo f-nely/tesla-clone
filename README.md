@@ -10,7 +10,7 @@
 
 ## Sobre o projeto
 
-<p align="center">Clone da página inicial do site da Tesla feito nas aulas de html e css da b7web</p>
+<p>Clone da página inicial do site da Tesla feito nas aulas de html e css da b7web</p>
 
 ### 🛠 Tecnologias
 
