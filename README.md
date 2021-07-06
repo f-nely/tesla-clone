@@ -1,7 +1,7 @@
 <h1 align="center">tesla-clone</h1>
 
 <h1 align="center">
-    <img alt="tesla-clone" title="tesla-clone" src="./assets/homepage.png" />
+    <img alt="tesla-clone" title="tesla-clone" src="assets/homepage.PNG" />
 </h1>
 
 <h4 align="center"> 
